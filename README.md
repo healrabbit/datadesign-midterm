@@ -14,7 +14,7 @@ Upon my first try using comparisons on the bpm column, I got errors and realized
 
 After testing it out, i set variables to each value and inputed that into my code, so values could be easily traded out. Once someone inputs the values into the variables, they just have to run that line, and then the line that indexes the dataframe, and they'd get a clean table with only the tracks that match! 
 
-I added instructions so others could parse through my collection as well. If someone wanted to use their own collection, they can do so by making a copy, replacing the xml file path, and going through and running the lines of code from import down, double checking the line to remove stock loops if the index of the loops differs in their data, then running the top lines to use the tool. The ipynb file is in this repo, and the colab notebook link is here: https://colab.research.google.com/drive/1TTTZHlkCuE1dC3sY9hSfv5C9IDacXwER?usp=sharing. 
+I added instructions so others could parse through my collection as well. If someone wanted to use their own collection, they can do so by exporting their rekordbox collection, making a copy of the notebook, importing their xml file to the notebook files, replacing the xml file path, and going through and running the lines of code from import down, double checking the line to remove stock loops if the index of the loops differs in their data, then running the top lines to use the tool. The ipynb file is in this repo, and the colab notebook link is here: https://colab.research.google.com/drive/1TTTZHlkCuE1dC3sY9hSfv5C9IDacXwER?usp=sharing. 
 
 I tested this tool in a practice session and found it super helpful when I was stuck picking a file! I'm glad I could make something that was personal and useful to me. 
 
